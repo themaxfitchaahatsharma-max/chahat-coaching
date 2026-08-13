@@ -13,10 +13,10 @@
 ------------------------------------------------------------------ */
 
 const topics = {
-  batchA: "No topic updated",
-  batchB: "No topic updated",
-  batchC: "No topic updated",
-  batchD: "No topic updated"
+  batchA: "English Spoken",
+  batchB: "Computer Basics",
+  batchC: "Doubt Sessions",
+  batchD: "Meeting With Sir"
 };
 
 /* Optional: short subject label shown under each batch heading.
