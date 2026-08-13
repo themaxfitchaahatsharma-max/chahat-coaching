@@ -27,10 +27,10 @@ Open `topics.js` in any text editor. You will see something like:
 
 ```js
 const topics = {
-  batchA: "No topic updated",
-  batchB: "No topic updated",
-  batchC: "No topic updated",
-  batchD: "No topic updated"
+  batchA: "ADCA Course",
+  batchB: "English Spoken Course",
+  batchC: "AI Course",
+  batchD: "Hand Writing Course"
 };
 ```
 
