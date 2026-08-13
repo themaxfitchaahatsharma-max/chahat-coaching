@@ -27,10 +27,10 @@ Open `topics.js` in any text editor. You will see something like:
 
 ```js
 const topics = {
-  batchA: "ADCA Course",
-  batchB: "English Spoken Course",
-  batchC: "AI Course",
-  batchD: "Hand Writing Course"
+  batchA: "Python",
+  batchB: "Java Script",
+  batchC: "Developer",
+  batchD: "Mobile Software"
 };
 ```
 
@@ -42,7 +42,7 @@ Example — after editing:
 
 ```js
 const topics = {
-  batchA: "Fractions",
+  batchA: "Exponents",
   batchB: "Photosynthesis",
   batchC: "Simple Equations",
   batchD: "Grammar - Tenses"
